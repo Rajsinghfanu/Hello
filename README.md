@@ -29,13 +29,13 @@
 <details><summary><h3>START HERE 🕹</h3></summary>
 
 <p align="center">
-<a target="_blank"href="https://t.me/MissCutie_Bot"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank"href="https://t.me/TeamTrickyAbhi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 </details>
 </details>
 <details><summary><h3>Deploy on Heroku💳</h3></summary>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/saifalisew1508/MissCutieRobot"><img src="https://img.shields.io/badge/HEROKU-DEPLOY-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Rajsinghfanu/Hello"><img src="https://img.shields.io/badge/HEROKU-DEPLOY-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
 
 
 </details>
@@ -51,7 +51,7 @@
 
 <details><summary><h3>𝗩𝗜𝗦𝗜𝗧𝗢𝗥𝗦 𝗖𝗢𝗨𝗡𝗧😎</h3></summary>
   
-<a href="https://github.com/saifalisew1508/MissCutieRobot"><img alt="CuteCount" src="https://count.getloli.com/get/@MissCutieRobot?theme=rule34" /></a>
+<a href="https://github.com/Rajsinghfanu/Hello"><img alt="CuteCount" src="https://count.getloli.com/get/@MissCutieRobot?theme=rule34" /></a>
 <p align="center">
 
 </details>
